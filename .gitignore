@@ -1,2 +1,5 @@
 .idea
 node-jsc2022.iml
+.env
+package-lock.json
+node_modules
